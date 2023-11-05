@@ -1,0 +1,12 @@
+{
+  "sections": {
+    "header-section": {
+      "title": "Header",
+      "description": "The header section of the page",
+      "type": "header-section"
+    }
+  },
+  "order": [
+    "header-section"
+  ]
+}
