@@ -1,3 +1,36 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: SemplicitaBoldItalic ;
+    src: url('./semplicita-bold-italic.woff2') format("woff2");
+}
+@font-face {
+    font-family: SemplicitaBold;
+    src: url('./semplicita-bold.woff2') format("woff2");
+}
+@font-face {
+    font-family: SemplicitaLightItalic;
+    src: url('./semplicita-light-italic.woff2') format("woff2");
+}
+@font-face {
+    font-family: SemplicitaLight;
+    src: url('./semplicita-light.woff2') format("woff2");
+}
+@font-face {
+    font-family: SemplicitaMediumItalic;
+    src: url('./semplicita-medium-italic.woff2') format("woff2");
+}
+@font-face {
+    font-family: SemplicitaMedium;
+    src: url('./semplicita-medium.woff2') format("woff2");
+}
+@font-face {
+    font-family: SemplicitaOmbra;
+    src: url('./semplicita-ombra.woff2') format("woff2");
+}
+@font-face {
+    font-family: TomaSansRegular;
+    src: url('./tomaSans-regular.woff2') format("woff2");
+}
